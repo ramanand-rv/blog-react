@@ -50,6 +50,11 @@ const Create = () => {
                     <option value="Harleen Deol">Harleen Deol</option>
                     <option value="Renuka Thakur">Renuka Thakur</option>
                 </select>
+                {!title && !body && <p>Please Enter Title, Body</p>}
+                {!title && body && <p>Please Enter a Title</p>}
+                {!body && title && <p>Please Enter the Body</p>}
+                {title && body && <p>Looks like a great read...</p>}
+
                 {!pending && <button disabled={!title || !body} onClick={handleSubmit}>Add Blog</button>}
                 {pending && <button disabled>Adding Blog....</button>}
             </form>

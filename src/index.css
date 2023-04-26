@@ -109,9 +109,27 @@
     display: block;
 }
 
+.create p {
+    margin: 10px;
+}
+
+.create p:hover {
+    text-decoration: dotted red;
+    scale: 1.2;
+    color: #7119ff;
+}
+
 .create button {
     background: #f1356d;
     color: white;
+    border: 0;
+    padding: 8px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.create button:hover {
+    background: #8eb7f1;
+    color: rgb(7, 4, 4);
     border: 0;
     padding: 8px;
     border-radius: 10px;
