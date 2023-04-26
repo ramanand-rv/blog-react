@@ -11,7 +11,7 @@ const ErrorPage = () => {
             <div className="back-home">
                 <Link to="/">Back to Home  Page👈</Link>
             </div>
-                <img src={cryingCat} alt="Sorry Face" />
+            <img src={cryingCat} alt="Sorry Face" />
         </div>
     )
 }
