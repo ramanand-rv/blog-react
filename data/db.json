@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "The Benefits of Regular Exercise",
+      "body": "Regular exercise has numerous benefits for both physical and mental health. It can help you maintain a healthy weight, reduce the risk of chronic diseases, improve mood and sleep quality, and more.",
+      "author": "John Doe"
+    },
+    {
+      "id": 2,
+      "title": "5 Tips for a Successful Job Interview",
+      "body": "Preparing for a job interview can be stressful, but with these 5 tips you can increase your chances of success. Practice common interview questions, research the company, dress appropriately, arrive early, and follow up with a thank-you email.",
+      "author": "Jane Smith"
+    },
+    {
+      "id": 3,
+      "title": "The Benefits of Mindfulness Meditation",
+      "body": "Mindfulness meditation has been shown to have numerous benefits for mental health, including reduced stress and anxiety, improved focus and concentration, and increased emotional regulation.",
+      "author": "Bob Johnson"
+    },
+    {
+      "id": 4,
+      "title": "How to Build a Successful Startup",
+      "body": "Building a successful startup requires a combination of hard work, innovation, and a bit of luck. Some key tips include identifying a problem to solve, building a strong team, creating a solid business plan, and continually adapting to changing market conditions.",
+      "author": "Samantha Lee"
+    },
+    {
+      "id": 5,
+      "title": "The Importance of Time Management",
+      "body": "Effective time management can help you accomplish more in less time, reduce stress, and improve your overall quality of life. Some strategies include setting clear goals, prioritizing tasks, avoiding distractions, and taking breaks when needed.",
+      "author": "David Kim"
+    },
+    {
+      "id": 6,
+      "title": "The Benefits of a Healthy Diet",
+      "body": "Eating a healthy diet can have numerous benefits for physical and mental health. It can help reduce the risk of chronic diseases, improve mood and cognitive function, and support healthy weight management. Key components of a healthy diet include whole grains, fruits and vegetables, lean proteins, and healthy fats.",
+      "author": "Emily Wong"
+    }
+  ]
+}
